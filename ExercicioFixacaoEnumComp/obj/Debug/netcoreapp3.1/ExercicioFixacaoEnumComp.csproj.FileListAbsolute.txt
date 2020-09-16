@@ -1,0 +1,13 @@
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\bin\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.exe
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\bin\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.deps.json
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\bin\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\bin\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\bin\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.dll
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\bin\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.pdb
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\obj\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\obj\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\obj\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\obj\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\obj\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.dll
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\obj\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.pdb
+C:\Users\Lucas\source\repos\ExercicioFixacaoEnumComp\ExercicioFixacaoEnumComp\obj\Debug\netcoreapp3.1\ExercicioFixacaoEnumComp.genruntimeconfig.cache
